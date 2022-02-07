@@ -21,3 +21,6 @@ I am a Software Developer specializing in **JavaScript** technologies, Professio
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="50" height="50"/> 
 
 
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jocanola&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jocanola&langs_count=5&theme=tokyonight)]()
