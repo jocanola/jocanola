@@ -20,6 +20,7 @@ I am a Software Developer specializing in **JavaScript** technologies, Professio
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="50" height="50"/> 
 
+---
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jocanola&count_private=true&theme=tokyonight&showicons=true)]()
