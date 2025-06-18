@@ -2,7 +2,7 @@
 
 ---
 
-I am a Software Developer specializing in **JavaScript** technologies, Professional experience with the technologies listed in the **toolbox** below. I am passionate, quick thinking, able to work under pressure, tolerant, analytic, observant and determined to succeed. I have vast amount of capacity to learn, solve tasks with the aim of achieving its goal. In addition, I am consistent, hardworking and capable of making stable and progressive relationships in any professional environment. I am a big fan of **humanity**, I derive happiness in helping others.
+**Experienced Frontend and Professional Mobile Engineer** with a strong background in developing scalable web and mobile applications using React.js, React Native, Next.js, and other modern web technologies. Proven ability to lead teams, collaborate with cross-functional teams, and deliver high-quality projects on time. Passionate about learning new technologies and improving code quality.
 
 ---
 
