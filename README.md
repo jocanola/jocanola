@@ -2,7 +2,8 @@
 
 ---
 
-**Experienced Frontend and Professional Mobile Engineer** with a strong background in developing scalable web and mobile applications using React.js, React Native, Next.js, and other modern web technologies. Proven ability to lead teams, collaborate with cross-functional teams, and deliver high-quality projects on time. Passionate about learning new technologies and improving code quality.
+Versatile Full-Stack Engineer with a frontend focus and 5+ years of experience building and scaling modern web and mobile applications. Expert in React.js, Next.js, React Native, and TypeScript, with solid backend proficiency using Node.js and Express. Proven ability to lead cross-functional teams, architect clean and performant UI systems, and integrate robust APIs. Skilled in delivering pixel-perfect, accessible, and production-ready apps across platforms, including successful deployments on both App Store and Play Store with 10K+ downloads. Passionate about clean code, performance optimization, and continuous learning.
+
 
 ---
 
