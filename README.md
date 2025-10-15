@@ -1,8 +1,12 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jokanola Yusuff Olatunji.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Yusuff Olatunji Jokanola. 
+
+## Software Engineer | Frontend-Focused (React, React Native, TypeScript) | Backend Experience | Building AI-Powered Products from 0→1
 
 ---
 
-Versatile Full-Stack Engineer with a frontend focus and 6+ years of experience building and scaling modern web and mobile applications. Expert in React.js, Next.js, React Native, and TypeScript, with solid backend proficiency using Node.js and Express. Proven ability to lead cross-functional teams, architect clean and performant UI systems, and integrate robust APIs. Skilled in delivering pixel-perfect, accessible, and production-ready apps across platforms, including successful deployments on both App Store and Play Store with 10K+ downloads. Passionate about clean code, performance optimization, and continuous learning.
+Senior Frontend & Mobile Engineer with extensive experience building and scaling large production applications using React.js, React Native, Next.js, and TypeScript. Proven track record in fast-paced startup environments, shipping impactful features quickly while maintaining long-term scalability and quality. Comfortable jumping across the stack—from frontend to API layer (Node.js, Express.js, NestJS), working with databases (Postgres, MongoDB), through to deployments and infrastructure (Docker, AWS, DigitalOcean), and CI/CD automation (GitHub Actions).
+
+I bring a strong product sense, sweating UX details and ensuring polished, intuitive experiences that drive adoption and retention. Known for a bias toward clarity, I can navigate messy backlogs, prioritize effectively, and turn ambiguous requirements into actionable solutions. Skilled at leading teams, collaborating across engineering, design, and product, and delivering outcomes that directly improve business metrics such as customer satisfaction, engagement, and revenue growth.
 
 
 ---
